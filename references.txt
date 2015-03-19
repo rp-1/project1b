@@ -1,0 +1,4 @@
+References
+
+Udacity prerequisite courses (all)
+Bootstrap online documentation 
